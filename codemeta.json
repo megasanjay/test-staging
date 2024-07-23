@@ -1,0 +1,41 @@
+{
+  "name": "test-staging",
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub (@fairdataihub)",
+        "type": "Organization"
+      },
+      "email": "ssoundarajan@calmi2.org",
+      "familyName": "Soundarajan",
+      "id": "_:author_1",
+      "givenName": "Sanjay",
+      "type": "Person"
+    },
+    {
+      "roleName": "role 1",
+      "schema:author": "_:author_1",
+      "type": "Role"
+    },
+    {
+      "roleName": "Role 2",
+      "startDate": "2024-07-10",
+      "schema:author": "_:author_1",
+      "type": "Role"
+    }
+  ],
+  "codeRepository": "https://github.com/megasanjay/test-staging",
+  "dateCreated": "2024-06-17",
+  "description": "Hello",
+  "issueTracker": "https://github.com/megasanjay/test-staging/issues",
+  "keywords": [
+    "TEst"
+  ],
+  "operatingSystem": [],
+  "programmingLanguage": [],
+  "relatedLink": [],
+  "runtimePlatform": [],
+  "softwareRequirements": [],
+  "type": "SoftwareSourceCode"
+}
