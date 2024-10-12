@@ -1,0 +1,30 @@
+{
+  "name": "test-staging",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub (@fairdataihub)",
+        "type": "Organization"
+      },
+      "email": "ssoundarajan@calmi2.org",
+      "familyName": "Soundarajan",
+      "id": "_:author_1",
+      "givenName": "Sanjay",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/megasanjay/test-staging",
+  "dateCreated": "2024-06-17",
+  "description": "nice",
+  "issueTracker": "https://github.com/megasanjay/test-staging/issues",
+  "keywords": [
+    "test"
+  ],
+  "operatingSystem": [],
+  "programmingLanguage": [],
+  "relatedLink": [],
+  "runtimePlatform": [],
+  "softwareRequirements": [],
+  "type": "SoftwareSourceCode"
+}
