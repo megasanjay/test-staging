@@ -11,3 +11,6 @@ abstract: nice
 keywords:
   - test
 repository-code: https://github.com/megasanjay/test-staging
+doi: 10.5281/zenodo.117044
+date-released: '2024-10-12'
+version: v1
