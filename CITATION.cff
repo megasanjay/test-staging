@@ -7,10 +7,10 @@ authors:
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
+doi: 10.5281/zenodo.117044
 abstract: nice
 keywords:
   - test
 repository-code: https://github.com/megasanjay/test-staging
-doi: 10.5281/zenodo.117044
-date-released: '2024-10-12'
+date-released: 2024-10-12
 version: v1
