@@ -16,10 +16,10 @@
   ],
   "codeRepository": "https://github.com/megasanjay/test-staging",
   "dateCreated": "2024-06-17",
-  "dateModified": "2024-10-16",
+  "dateModified": "2024-10-17",
   "datePublished": "2024-10-12",
   "description": "nice",
-  "identifier": "10.5281/zenodo.13942666",
+  "identifier": "10.5281/zenodo.118769",
   "issueTracker": "https://github.com/megasanjay/test-staging/issues",
   "keywords": [
     "test"
@@ -28,5 +28,6 @@
     "C++"
   ],
   "version": "v1",
-  "type": "SoftwareSourceCode"
+  "type": "SoftwareSourceCode",
+  "license": "https://spdx.org/licenses/MIT"
 }
